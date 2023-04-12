@@ -15,13 +15,16 @@ Program zrealizowano w języku programistycznym python. Skorzystano z następuj�
 bibliotek:
 
 • matplotlib – biblioteka umożliwiająca tworzenie wykresów
+
 • tkinter – biblioteka umożliwiające tworzenie GUI
+
 • customtkinter – biblioteka stworzona na podstawie biblioteki tkinter, dzięki której można stworzyć nowocześnie wyglądające GUI dla aplikacji
 
 Powyższe biblioteki można zainstalować przy pomocy komendy „pip install <nazwa biblioteki>”
 wpisanej w terminal projektu. Na projekt składają się dwa pliki:
 
 • main.py – plik zawierający funkcję wykonawczą aplikacji oraz klasę GUI aplikacji
+
 • classes.py – plik zawierający definicje klas Plane oraz Camera
 
 Pliki main.py i classes.py muszą być w jednym folderze. Aby włączyć aplikację należy uruchomić
