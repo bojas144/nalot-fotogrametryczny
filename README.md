@@ -16,9 +16,8 @@ bibliotek:
 
 • matplotlib – biblioteka umożliwiająca tworzenie wykresów
 • tkinter – biblioteka umożliwiające tworzenie GUI
-• customtkinter – biblioteka stworzona na podstawie biblioteki tkinter, dzięki której można
+• customtkinter – biblioteka stworzona na podstawie biblioteki tkinter, dzięki której można stworzyć nowocześnie wyglądające GUI dla aplikacji
 
-stworzyć nowocześnie wyglądające GUI dla aplikacji
 Powyższe biblioteki można zainstalować przy pomocy komendy „pip install <nazwa biblioteki>”
 wpisanej w terminal projektu. Na projekt składają się dwa pliki:
 
